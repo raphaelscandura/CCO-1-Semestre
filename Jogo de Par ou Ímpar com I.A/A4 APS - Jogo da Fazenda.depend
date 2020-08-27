@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588020233 source:c:\users\rapha\onedrive\Área de trabalho\the shire\codes\algoritimos e programação - 1º semestre\code blocks\a4 aps - jogo da fazenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1590709010 source:c:\users\rapha\onedrive\Área de trabalho\the shire\faculdade - cco uam\1º semestre\algoritimos e programação 1º semestre\code blocks\a4 aps - jogo da fazenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

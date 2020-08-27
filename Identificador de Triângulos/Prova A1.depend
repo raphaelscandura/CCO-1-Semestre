@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588078134 source:c:\users\rapha\onedrive\Área de trabalho\the shire\codes\algoritimos e programação - 1º semestre\code blocks\prova a1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
